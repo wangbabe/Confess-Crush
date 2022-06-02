@@ -7,6 +7,7 @@ const CONFIG = {
     desc: 'Nên tớ lỡ thích cậu mất òi, phải làm sao phải làm sao, cậu thấy vậy có được không? ',
     btnYes: 'Được nha, tớ cũng thích cậu đóooo',
     btnNo: 'Không nha :3',
+    title: 'Nữa nè :3',
     desc: 'Tớ thật lòng thích cậu lắm, cho tớ một cơ hội, nha? 🥺',
     btnYes: 'Oke nè',
     btnNO: 'Không nha',
