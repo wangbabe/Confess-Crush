@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Cậu ơi, mình có một bí mật muốn nói cho cậu biết á, lại đây đi, tớ nói nhỏ thôi.`,
     btnIntro: 'Bấm chỗ này nè cậu :3',
     title: 'Thật ra tớ thấy cậu rất là xinh đẹp luônn.',
-    desc: 'Nên tớ lỡ thích cậu mất òi, phải làm sao phải làm sao, cậu thấy vậy có được không? ',
+    desc: 'Nên tớ lỡ thích cậu mất òi, cậu thấy vậy có được không? ',
     btnYes: 'Được nha, tớ cũng thích cậu đóooo',
     btnNo: 'Không nha :3',
     question: 'Tớ thích cậu lắm á, nên là cho tớ cơ hội nha? 🥺',
