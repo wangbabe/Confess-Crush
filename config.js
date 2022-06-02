@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Tớ thật lòng thích cậu lắm, cho tớ một cơ hội, nhé? 🥺',
     btnReply: 'Gửi cho cậu <3',
-    reply: '',
+    reply: 'Oke nè',
     mess: 'Yêu cậu lắm ấy, tối nay đi chơi với tớ nha?',
     messDesc: 'Tối nay 7h, tớ qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
